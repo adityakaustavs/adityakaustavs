@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 <!--<!-- Hero Section with Typing Animation -->
 <!-- Typing animated banner -->
